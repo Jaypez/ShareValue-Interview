@@ -1,0 +1,5 @@
+<div class="container">
+  <app-flight-tile *ngFor="let flight of flightData$ | async" [flightInfo]="flight" [passengers]="passengers"></app-flight-tile>
+  <h2 *ngIf="(flightData$ | async) == null">Use the search fields above to find flights</h2>
+  <h2 *ngIf="(flightData$ | async)?.length === 0">No results found, try again</h2>
+</div>

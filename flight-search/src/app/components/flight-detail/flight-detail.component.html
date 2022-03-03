@@ -1,0 +1,88 @@
+<h1 mat-dialog-title>Flight Details</h1>
+<mat-dialog-content class="full-width">
+  <div class="row">
+    <div class="col">
+      <strong> Flight Origin - Destination </strong>
+    </div>
+    <div class="col">
+      {{ data.flight.origin }} - {{ data.flight.destination }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Departure Date</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.departureDate | date: "YYYY/MM/dd" }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Departure Time</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.departureDate | date: "HH:mm" }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Travel Duration</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.flightDuration.hours }} hours,
+      {{ data.flight.flightDuration.minutes }} minutes
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Airline</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.airline }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Cabin Class</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.cabin }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Number of Stops</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.stopCount > 0 ? data.flight.stopCount : 'Direct' }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Price Per Ticket</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.ticketPrice | currency:"EUR" }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Number of Passengers</strong>
+    </div>
+    <div class="col">
+      {{ data.passengers }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <strong>Total Price</strong>
+    </div>
+    <div class="col">
+      {{ data.flight.ticketPrice * data.passengers | currency:"EUR" }}
+    </div>
+  </div>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button color="accent" mat-dialog-close="">Book Now</button>
+  <button mat-button mat-dialog-close>Close</button>
+</mat-dialog-actions>

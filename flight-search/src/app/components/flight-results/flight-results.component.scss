@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+app-flight-tile {
+  width: 400px;
+  margin: 5px 5px;
+}

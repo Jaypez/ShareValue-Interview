@@ -1,0 +1,48 @@
+<div *ngIf="flightInfo">
+  <mat-card>
+    <mat-card-title>{{ flightInfo.airline }}</mat-card-title>
+    <mat-card-content>
+      <div class="row">
+        <div class="col">
+          <strong
+            >{{ flightInfo.origin }} - {{ flightInfo.destination }}
+          </strong>
+        </div>
+        <div class="col">
+          <strong>
+            {{ flightInfo.flightDuration.hours }}h
+            {{ flightInfo.flightDuration.minutes }}m
+          </strong>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          {{ flightInfo.departureDate | date: "HH:mm" }} -
+          {{ getArrivalDate() | date: "HH:mm" }}
+        </div>
+        <div class="col">
+          <span>{{ flightInfo.ticketPrice | currency: "EUR" }} / person</span>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <span *ngIf="!flightInfo.stopCount">Direct</span>
+          <span *ngIf="flightInfo.stopCount">
+            {{ flightInfo.stopCount }} Stop(s)
+          </span>
+        </div>
+        <div class="col">
+          <span>
+            {{ flightInfo.ticketPrice * (passengers ?? 1) | currency: "EUR" }}
+            total
+          </span>
+        </div>
+      </div>
+    </mat-card-content>
+    <mat-card-actions align="end">
+      <button mat-flat-button color="accent" (click)="onViewDealClick()">
+        View Deal
+      </button>
+    </mat-card-actions>
+  </mat-card>
+</div>

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "621f5a19fd2473eb47b9b78e",
+    "origin": "Amsterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Sat Apr 23 2022 17:52:46 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 8,
+      "minutes": 8
+    },
+    "availableSeats": 33,
+    "ticketPrice": 752.97,
+    "stopCount": 0,
+    "airline": "Zidox",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19c4484f37384bc792",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Wed Apr 20 2022 07:05:03 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 56
+    },
+    "availableSeats": 45,
+    "ticketPrice": 707.41,
+    "stopCount": 0,
+    "airline": "Sybixtex",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a196683d4071137cf6d",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Wed Apr 13 2022 12:59:16 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 4,
+      "minutes": 19
+    },
+    "availableSeats": 56,
+    "ticketPrice": 684.01,
+    "stopCount": 2,
+    "airline": "Farmex",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19ee4d7767a93f3001",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Fri Apr 15 2022 16:52:49 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 9,
+      "minutes": 29
+    },
+    "availableSeats": 24,
+    "ticketPrice": 682.56,
+    "stopCount": 2,
+    "airline": "Phuel",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19bb77787edb13dc3b",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Wed Apr 20 2022 02:58:36 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 21,
+      "minutes": 38
+    },
+    "availableSeats": 59,
+    "ticketPrice": 705.76,
+    "stopCount": 2,
+    "airline": "Moltonic",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19ec22fb7350b7eb94",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Wed Apr 06 2022 11:03:39 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 14,
+      "minutes": 44
+    },
+    "availableSeats": 63,
+    "ticketPrice": 615.32,
+    "stopCount": 2,
+    "airline": "Accupharm",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19c02fb47578ca5247",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Tue Apr 05 2022 03:27:23 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 6,
+      "minutes": 50
+    },
+    "availableSeats": 61,
+    "ticketPrice": 561.22,
+    "stopCount": 1,
+    "airline": "Quizmo",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a193e4c9acd9a623d74",
+    "origin": "Maastricht",
+    "destination": "Amsterdam",
+    "departureDate": "Mon Apr 04 2022 00:42:08 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 14,
+      "minutes": 11
+    },
+    "availableSeats": 31,
+    "ticketPrice": 900.39,
+    "stopCount": 2,
+    "airline": "Centice",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19359a85a17e591989",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Wed Apr 13 2022 03:46:58 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 0,
+      "minutes": 52
+    },
+    "availableSeats": 3,
+    "ticketPrice": 812.06,
+    "stopCount": 2,
+    "airline": "Vetron",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19c7b27f8f43d1b99c",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Tue Apr 19 2022 11:09:49 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 19
+    },
+    "availableSeats": 87,
+    "ticketPrice": 515.25,
+    "stopCount": 0,
+    "airline": "Ramjob",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a196f8abcec866b7fa0",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Thu Apr 14 2022 07:19:55 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 3,
+      "minutes": 29
+    },
+    "availableSeats": 74,
+    "ticketPrice": 699.05,
+    "stopCount": 0,
+    "airline": "Undertap",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a199fe80694d8fa98a8",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Mon Apr 18 2022 03:46:40 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 23,
+      "minutes": 59
+    },
+    "availableSeats": 71,
+    "ticketPrice": 991,
+    "stopCount": 0,
+    "airline": "Cubix",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1902370e0f02fe66e6",
+    "origin": "Maastricht",
+    "destination": "Eindhoven",
+    "departureDate": "Thu Apr 21 2022 04:51:09 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 39
+    },
+    "availableSeats": 48,
+    "ticketPrice": 980.06,
+    "stopCount": 0,
+    "airline": "Atgen",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a1920ed602b9c20a988",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Wed Apr 06 2022 18:59:52 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 7,
+      "minutes": 57
+    },
+    "availableSeats": 39,
+    "ticketPrice": 690.72,
+    "stopCount": 0,
+    "airline": "Eargo",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19978f9b739fbafd72",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Mon Apr 18 2022 17:59:54 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 33
+    },
+    "availableSeats": 45,
+    "ticketPrice": 568.45,
+    "stopCount": 2,
+    "airline": "Apexia",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19bff90ed0d2c31625",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Sun Apr 17 2022 10:48:36 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 5,
+      "minutes": 16
+    },
+    "availableSeats": 83,
+    "ticketPrice": 631.14,
+    "stopCount": 0,
+    "airline": "Enomen",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19af4a5b00663f8166",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Mon Apr 18 2022 23:31:02 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 2,
+      "minutes": 32
+    },
+    "availableSeats": 22,
+    "ticketPrice": 906.12,
+    "stopCount": 0,
+    "airline": "Kyagoro",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a199d8a7bcc24a25c8c",
+    "origin": "Amsterdam",
+    "destination": "Rotterdam",
+    "departureDate": "Sat Apr 23 2022 14:30:14 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 47
+    },
+    "availableSeats": 99,
+    "ticketPrice": 614.89,
+    "stopCount": 0,
+    "airline": "Zilch",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19cd5089a13bb87c42",
+    "origin": "Amsterdam",
+    "destination": "Rotterdam",
+    "departureDate": "Sun Apr 17 2022 07:06:34 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 17,
+      "minutes": 6
+    },
+    "availableSeats": 29,
+    "ticketPrice": 515.73,
+    "stopCount": 1,
+    "airline": "Imkan",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19117e9170c7b17c8b",
+    "origin": "Amsterdam",
+    "destination": "Maastricht",
+    "departureDate": "Wed Apr 06 2022 10:05:33 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 10
+    },
+    "availableSeats": 76,
+    "ticketPrice": 657.38,
+    "stopCount": 0,
+    "airline": "Idego",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19578c6295f949ab1e",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Sat Apr 02 2022 16:37:50 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 42
+    },
+    "availableSeats": 45,
+    "ticketPrice": 586.35,
+    "stopCount": 2,
+    "airline": "Songbird",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19079b959877abb841",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Fri Apr 08 2022 03:23:02 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 19,
+      "minutes": 9
+    },
+    "availableSeats": 50,
+    "ticketPrice": 853.27,
+    "stopCount": 2,
+    "airline": "Qaboos",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a193abe11905d5917ee",
+    "origin": "Amsterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Wed Apr 13 2022 18:27:52 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 9,
+      "minutes": 13
+    },
+    "availableSeats": 69,
+    "ticketPrice": 530.64,
+    "stopCount": 0,
+    "airline": "Proxsoft",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a195ae3c79f319261b5",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Sat Apr 09 2022 17:37:41 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 5
+    },
+    "availableSeats": 45,
+    "ticketPrice": 767.16,
+    "stopCount": 0,
+    "airline": "Kozgene",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19a5124d084a8d4136",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Mon Apr 25 2022 16:39:13 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 5,
+      "minutes": 32
+    },
+    "availableSeats": 98,
+    "ticketPrice": 847.73,
+    "stopCount": 1,
+    "airline": "Snorus",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19e934b894a5ecefbb",
+    "origin": "Amsterdam",
+    "destination": "Rotterdam",
+    "departureDate": "Thu Apr 14 2022 13:14:08 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 3,
+      "minutes": 59
+    },
+    "availableSeats": 69,
+    "ticketPrice": 784.76,
+    "stopCount": 1,
+    "airline": "Memora",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a193099f717771b9e84",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Mon Apr 25 2022 17:16:40 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 14,
+      "minutes": 28
+    },
+    "availableSeats": 57,
+    "ticketPrice": 650.54,
+    "stopCount": 1,
+    "airline": "Parleynet",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19c8ac094b47aad992",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Mon Apr 04 2022 01:43:38 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 7,
+      "minutes": 0
+    },
+    "availableSeats": 56,
+    "ticketPrice": 816.11,
+    "stopCount": 1,
+    "airline": "Providco",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a198694da53324ff579",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Sat Apr 23 2022 08:50:04 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 17,
+      "minutes": 50
+    },
+    "availableSeats": 1,
+    "ticketPrice": 563.68,
+    "stopCount": 2,
+    "airline": "Pivitol",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a1916fded0f8196df86",
+    "origin": "Maastricht",
+    "destination": "Eindhoven",
+    "departureDate": "Fri Apr 15 2022 15:28:26 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 23,
+      "minutes": 47
+    },
+    "availableSeats": 64,
+    "ticketPrice": 818.85,
+    "stopCount": 0,
+    "airline": "Volax",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1917d2f827dff10b0c",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Mon Apr 11 2022 08:40:26 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 21,
+      "minutes": 46
+    },
+    "availableSeats": 89,
+    "ticketPrice": 931.88,
+    "stopCount": 2,
+    "airline": "Exodoc",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a190ebb11136c96bb67",
+    "origin": "Amsterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Wed Apr 27 2022 13:43:15 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 28
+    },
+    "availableSeats": 88,
+    "ticketPrice": 620.51,
+    "stopCount": 2,
+    "airline": "Geekology",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19791626e5ec66e535",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Sun Apr 10 2022 12:27:07 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 6,
+      "minutes": 11
+    },
+    "availableSeats": 48,
+    "ticketPrice": 599.81,
+    "stopCount": 2,
+    "airline": "Aquamate",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19c36c52ff77b7adfe",
+    "origin": "Amsterdam",
+    "destination": "Rotterdam",
+    "departureDate": "Fri Apr 29 2022 06:12:19 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 14,
+      "minutes": 59
+    },
+    "availableSeats": 72,
+    "ticketPrice": 876.64,
+    "stopCount": 0,
+    "airline": "Isologica",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a191cee66e42be1316c",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Wed Apr 06 2022 02:21:17 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 13,
+      "minutes": 45
+    },
+    "availableSeats": 100,
+    "ticketPrice": 853.78,
+    "stopCount": 2,
+    "airline": "Endipine",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1981262a7b38fc0cf1",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Wed Apr 27 2022 03:13:52 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 2,
+      "minutes": 53
+    },
+    "availableSeats": 43,
+    "ticketPrice": 898.51,
+    "stopCount": 1,
+    "airline": "Quarx",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19001211b6ceda0f0f",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Sun Apr 03 2022 17:15:17 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 16,
+      "minutes": 7
+    },
+    "availableSeats": 31,
+    "ticketPrice": 808.14,
+    "stopCount": 1,
+    "airline": "Quilm",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19b80ca8cabaf0ff0b",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Fri Apr 22 2022 22:25:32 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 52
+    },
+    "availableSeats": 82,
+    "ticketPrice": 608.07,
+    "stopCount": 1,
+    "airline": "Hairport",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19d8a011860a0abfc5",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Fri Apr 01 2022 20:55:13 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 23,
+      "minutes": 12
+    },
+    "availableSeats": 26,
+    "ticketPrice": 668.74,
+    "stopCount": 1,
+    "airline": "Exospace",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1905675110630e1de2",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Sun Apr 17 2022 22:23:32 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 17,
+      "minutes": 32
+    },
+    "availableSeats": 33,
+    "ticketPrice": 721.67,
+    "stopCount": 1,
+    "airline": "Magnafone",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19298039d9205d8c58",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Fri Apr 15 2022 15:42:52 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 23,
+      "minutes": 50
+    },
+    "availableSeats": 100,
+    "ticketPrice": 750.06,
+    "stopCount": 0,
+    "airline": "Animalia",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19f06d4623a7a4cdf6",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Sun Apr 24 2022 05:38:58 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 0,
+      "minutes": 9
+    },
+    "availableSeats": 70,
+    "ticketPrice": 640.16,
+    "stopCount": 2,
+    "airline": "Callflex",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19c206c62bb3a9464b",
+    "origin": "Maastricht",
+    "destination": "Amsterdam",
+    "departureDate": "Sat Apr 23 2022 08:03:43 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 12,
+      "minutes": 23
+    },
+    "availableSeats": 48,
+    "ticketPrice": 839.53,
+    "stopCount": 2,
+    "airline": "Slambda",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19ba5b78ad41a89495",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Fri Apr 01 2022 04:27:27 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 28
+    },
+    "availableSeats": 79,
+    "ticketPrice": 603.47,
+    "stopCount": 0,
+    "airline": "Niquent",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19bb544e2805350f60",
+    "origin": "Amsterdam",
+    "destination": "Maastricht",
+    "departureDate": "Thu Apr 07 2022 04:39:14 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 3,
+      "minutes": 40
+    },
+    "availableSeats": 79,
+    "ticketPrice": 679.66,
+    "stopCount": 0,
+    "airline": "Insectus",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19c5452303101aadcd",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Thu Apr 28 2022 15:33:46 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 16,
+      "minutes": 24
+    },
+    "availableSeats": 73,
+    "ticketPrice": 894.01,
+    "stopCount": 1,
+    "airline": "Zork",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a199ffad3768937e6f2",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Mon Apr 11 2022 06:07:38 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 6,
+      "minutes": 27
+    },
+    "availableSeats": 92,
+    "ticketPrice": 546.57,
+    "stopCount": 0,
+    "airline": "Kyaguru",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a1959de7e55a0d0c507",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Wed Apr 27 2022 15:35:01 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 28
+    },
+    "availableSeats": 4,
+    "ticketPrice": 687.68,
+    "stopCount": 2,
+    "airline": "Rubadub",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a191c4a3d04755b1e40",
+    "origin": "Maastricht",
+    "destination": "Amsterdam",
+    "departureDate": "Fri Apr 29 2022 18:53:34 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 7,
+      "minutes": 2
+    },
+    "availableSeats": 88,
+    "ticketPrice": 831.17,
+    "stopCount": 2,
+    "airline": "Boink",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19289586c791c210ca",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Tue Apr 26 2022 14:08:56 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 2,
+      "minutes": 25
+    },
+    "availableSeats": 62,
+    "ticketPrice": 719.52,
+    "stopCount": 0,
+    "airline": "Dentrex",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a1912dffd7e1b960865",
+    "origin": "Maastricht",
+    "destination": "Eindhoven",
+    "departureDate": "Sun Apr 17 2022 02:51:19 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 14,
+      "minutes": 41
+    },
+    "availableSeats": 64,
+    "ticketPrice": 610.84,
+    "stopCount": 0,
+    "airline": "Tetratrex",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1947dffc3fc3aff8ae",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Wed Apr 20 2022 10:44:39 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 23,
+      "minutes": 26
+    },
+    "availableSeats": 71,
+    "ticketPrice": 677.56,
+    "stopCount": 1,
+    "airline": "Biflex",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19957a8703d42c4a87",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Mon Apr 11 2022 12:33:37 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 23,
+      "minutes": 28
+    },
+    "availableSeats": 98,
+    "ticketPrice": 758.11,
+    "stopCount": 1,
+    "airline": "Eclipsent",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19bba65d7372113d7c",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Fri Apr 01 2022 19:09:22 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 20,
+      "minutes": 56
+    },
+    "availableSeats": 55,
+    "ticketPrice": 826.64,
+    "stopCount": 0,
+    "airline": "Xth",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19f8805840e1cc3866",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Fri Apr 15 2022 00:58:41 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 9,
+      "minutes": 31
+    },
+    "availableSeats": 82,
+    "ticketPrice": 775.61,
+    "stopCount": 2,
+    "airline": "Boilicon",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a1947626896cc838eb2",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Thu Apr 28 2022 17:49:10 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 21,
+      "minutes": 31
+    },
+    "availableSeats": 31,
+    "ticketPrice": 587.84,
+    "stopCount": 1,
+    "airline": "Orbiflex",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a193eebcefe90751fec",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Wed Apr 20 2022 02:24:37 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 6,
+      "minutes": 3
+    },
+    "availableSeats": 89,
+    "ticketPrice": 815.1,
+    "stopCount": 1,
+    "airline": "Plasmox",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a190f2fceff64d2c7d1",
+    "origin": "Maastricht",
+    "destination": "Eindhoven",
+    "departureDate": "Mon Apr 25 2022 05:00:19 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 20,
+      "minutes": 34
+    },
+    "availableSeats": 50,
+    "ticketPrice": 747.66,
+    "stopCount": 1,
+    "airline": "Uxmox",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19bcfe24b20d7fa958",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Fri Apr 08 2022 12:01:50 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 5,
+      "minutes": 21
+    },
+    "availableSeats": 69,
+    "ticketPrice": 961.48,
+    "stopCount": 0,
+    "airline": "Supremia",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a198ea38a4f242f2271",
+    "origin": "Amsterdam",
+    "destination": "Rotterdam",
+    "departureDate": "Fri Apr 22 2022 22:52:07 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 10,
+      "minutes": 57
+    },
+    "availableSeats": 92,
+    "ticketPrice": 989.66,
+    "stopCount": 0,
+    "airline": "Opticall",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19c2023a0c20f5053c",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Tue Apr 19 2022 08:02:23 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 11,
+      "minutes": 39
+    },
+    "availableSeats": 90,
+    "ticketPrice": 628.47,
+    "stopCount": 0,
+    "airline": "Duflex",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19a8b1bc4194b73c09",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Fri Apr 01 2022 15:42:02 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 11,
+      "minutes": 5
+    },
+    "availableSeats": 54,
+    "ticketPrice": 652.44,
+    "stopCount": 0,
+    "airline": "Vendblend",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a195cb7e6502672e6ab",
+    "origin": "Maastricht",
+    "destination": "Eindhoven",
+    "departureDate": "Mon Apr 18 2022 05:21:43 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 5,
+      "minutes": 3
+    },
+    "availableSeats": 22,
+    "ticketPrice": 983.21,
+    "stopCount": 2,
+    "airline": "Pharmacon",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a190d43b583da53a251",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Fri Apr 15 2022 21:07:43 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 5,
+      "minutes": 35
+    },
+    "availableSeats": 90,
+    "ticketPrice": 849.16,
+    "stopCount": 1,
+    "airline": "Tubesys",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a1908a3d949ec52bfa2",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Sun Apr 24 2022 03:24:53 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 4,
+      "minutes": 46
+    },
+    "availableSeats": 97,
+    "ticketPrice": 552.44,
+    "stopCount": 0,
+    "airline": "Softmicro",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a1930d1cd767d0c3d0c",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Thu Apr 28 2022 06:23:32 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 4,
+      "minutes": 17
+    },
+    "availableSeats": 72,
+    "ticketPrice": 767.8,
+    "stopCount": 1,
+    "airline": "Talendula",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19d0aefab682bc6eb8",
+    "origin": "Amsterdam",
+    "destination": "Maastricht",
+    "departureDate": "Sun Apr 17 2022 12:12:31 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 7,
+      "minutes": 59
+    },
+    "availableSeats": 54,
+    "ticketPrice": 638.43,
+    "stopCount": 0,
+    "airline": "Microluxe",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19018f8257d8484cac",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Sun Apr 24 2022 08:29:09 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 59
+    },
+    "availableSeats": 52,
+    "ticketPrice": 903.71,
+    "stopCount": 1,
+    "airline": "Zaggle",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a191d0125fdd9427e79",
+    "origin": "Maastricht",
+    "destination": "Amsterdam",
+    "departureDate": "Thu Apr 28 2022 19:46:38 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 11
+    },
+    "availableSeats": 34,
+    "ticketPrice": 530.55,
+    "stopCount": 0,
+    "airline": "Balooba",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a1923ba27eb5eed2480",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Tue Apr 19 2022 19:04:16 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 16,
+      "minutes": 55
+    },
+    "availableSeats": 100,
+    "ticketPrice": 742.2,
+    "stopCount": 1,
+    "airline": "Cogentry",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a1907719c77896f97ec",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Tue Apr 19 2022 14:05:22 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 18,
+      "minutes": 18
+    },
+    "availableSeats": 28,
+    "ticketPrice": 852.32,
+    "stopCount": 0,
+    "airline": "Entality",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19e70454f7026c029c",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Sat Apr 16 2022 19:00:56 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 0,
+      "minutes": 13
+    },
+    "availableSeats": 35,
+    "ticketPrice": 636.48,
+    "stopCount": 0,
+    "airline": "Musix",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19af961272dddc5ea7",
+    "origin": "Maastricht",
+    "destination": "Eindhoven",
+    "departureDate": "Tue Apr 12 2022 04:13:16 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 13,
+      "minutes": 21
+    },
+    "availableSeats": 50,
+    "ticketPrice": 633.71,
+    "stopCount": 2,
+    "airline": "Voipa",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19e49e4234e81a7067",
+    "origin": "Rotterdam",
+    "destination": "Eindhoven",
+    "departureDate": "Sat Apr 09 2022 01:31:14 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 12,
+      "minutes": 50
+    },
+    "availableSeats": 31,
+    "ticketPrice": 668.63,
+    "stopCount": 0,
+    "airline": "Fiberox",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a196f37642cbbf69bbb",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Wed Apr 13 2022 22:03:59 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 5,
+      "minutes": 58
+    },
+    "availableSeats": 3,
+    "ticketPrice": 859.36,
+    "stopCount": 2,
+    "airline": "Centree",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19379073118c3a8330",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Tue Apr 05 2022 20:23:19 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 20,
+      "minutes": 51
+    },
+    "availableSeats": 89,
+    "ticketPrice": 603.69,
+    "stopCount": 2,
+    "airline": "Zoxy",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a199d4c5af49dff9ca9",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Wed Apr 27 2022 05:33:19 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 1,
+      "minutes": 32
+    },
+    "availableSeats": 32,
+    "ticketPrice": 696.69,
+    "stopCount": 0,
+    "airline": "Signity",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a1952d3450542199853",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Thu Apr 07 2022 19:50:27 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 3,
+      "minutes": 21
+    },
+    "availableSeats": 73,
+    "ticketPrice": 714.47,
+    "stopCount": 2,
+    "airline": "Netplode",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a193c2d5d180c088216",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Mon Apr 18 2022 17:22:01 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 12,
+      "minutes": 28
+    },
+    "availableSeats": 84,
+    "ticketPrice": 534.47,
+    "stopCount": 0,
+    "airline": "Orboid",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19e47e7fc5a01b21af",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Tue Apr 19 2022 16:26:21 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 40
+    },
+    "availableSeats": 70,
+    "ticketPrice": 898.64,
+    "stopCount": 0,
+    "airline": "Valpreal",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a19ab8452f87e5b19ad",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Thu Apr 28 2022 20:58:22 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 22,
+      "minutes": 24
+    },
+    "availableSeats": 24,
+    "ticketPrice": 677.72,
+    "stopCount": 2,
+    "airline": "Telepark",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a1937f3e965766d331b",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Mon Apr 25 2022 03:54:12 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 3,
+      "minutes": 30
+    },
+    "availableSeats": 86,
+    "ticketPrice": 726.38,
+    "stopCount": 0,
+    "airline": "Genekom",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19fe9985de5f4996fd",
+    "origin": "Amsterdam",
+    "destination": "Maastricht",
+    "departureDate": "Tue Apr 19 2022 12:34:41 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 19,
+      "minutes": 42
+    },
+    "availableSeats": 84,
+    "ticketPrice": 774.6,
+    "stopCount": 0,
+    "airline": "Qualitern",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19b273ac187dd70e44",
+    "origin": "Amsterdam",
+    "destination": "Rotterdam",
+    "departureDate": "Thu Apr 21 2022 13:52:17 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 7,
+      "minutes": 19
+    },
+    "availableSeats": 57,
+    "ticketPrice": 717.4,
+    "stopCount": 0,
+    "airline": "Rodemco",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a194cfb7665bc8ff9a5",
+    "origin": "Maastricht",
+    "destination": "Amsterdam",
+    "departureDate": "Sat Apr 02 2022 21:42:53 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 15,
+      "minutes": 36
+    },
+    "availableSeats": 77,
+    "ticketPrice": 522.7,
+    "stopCount": 1,
+    "airline": "Insuresys",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19c8a8733443189a18",
+    "origin": "Eindhoven",
+    "destination": "Rotterdam",
+    "departureDate": "Fri Apr 01 2022 01:46:24 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 8,
+      "minutes": 20
+    },
+    "availableSeats": 75,
+    "ticketPrice": 742.86,
+    "stopCount": 2,
+    "airline": "Polarax",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a199e221798eaf05b30",
+    "origin": "Amsterdam",
+    "destination": "Rotterdam",
+    "departureDate": "Tue Apr 26 2022 06:19:13 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 0,
+      "minutes": 42
+    },
+    "availableSeats": 41,
+    "ticketPrice": 999.43,
+    "stopCount": 1,
+    "airline": "Datagene",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19c8bbc4668b13e494",
+    "origin": "Eindhoven",
+    "destination": "Maastricht",
+    "departureDate": "Tue Apr 26 2022 11:09:32 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 9,
+      "minutes": 31
+    },
+    "availableSeats": 46,
+    "ticketPrice": 706.61,
+    "stopCount": 0,
+    "airline": "Makingway",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19dc1999cf0f7b225a",
+    "origin": "Eindhoven",
+    "destination": "Amsterdam",
+    "departureDate": "Sat Apr 16 2022 20:04:10 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 19,
+      "minutes": 8
+    },
+    "availableSeats": 90,
+    "ticketPrice": 521.34,
+    "stopCount": 1,
+    "airline": "Artiq",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a198bcec0efd865a334",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Fri Apr 01 2022 07:27:09 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 21,
+      "minutes": 1
+    },
+    "availableSeats": 25,
+    "ticketPrice": 615.77,
+    "stopCount": 1,
+    "airline": "Nutralab",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19231b347905d88b23",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Thu Apr 28 2022 23:04:52 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 3,
+      "minutes": 21
+    },
+    "availableSeats": 40,
+    "ticketPrice": 570.76,
+    "stopCount": 1,
+    "airline": "Imant",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1916825d3ff7c2d888",
+    "origin": "Maastricht",
+    "destination": "Amsterdam",
+    "departureDate": "Thu Apr 07 2022 00:25:16 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 6,
+      "minutes": 14
+    },
+    "availableSeats": 53,
+    "ticketPrice": 603.23,
+    "stopCount": 0,
+    "airline": "Optique",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19a4176188280f5786",
+    "origin": "Maastricht",
+    "destination": "Amsterdam",
+    "departureDate": "Sun Apr 24 2022 00:20:22 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 6,
+      "minutes": 22
+    },
+    "availableSeats": 46,
+    "ticketPrice": 831.28,
+    "stopCount": 1,
+    "airline": "Techmania",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19a6a032b1749c1757",
+    "origin": "Maastricht",
+    "destination": "Rotterdam",
+    "departureDate": "Sun Apr 03 2022 08:20:12 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 4,
+      "minutes": 48
+    },
+    "availableSeats": 20,
+    "ticketPrice": 689.96,
+    "stopCount": 0,
+    "airline": "Quantasis",
+    "cabin": "Economy"
+  },
+  {
+    "id": "621f5a19d150497ae577247e",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Tue Apr 19 2022 10:42:23 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 2,
+      "minutes": 31
+    },
+    "availableSeats": 98,
+    "ticketPrice": 733.92,
+    "stopCount": 2,
+    "airline": "Xinware",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a191d7ca858df0617e0",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Sat Apr 02 2022 20:21:02 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 15,
+      "minutes": 29
+    },
+    "availableSeats": 47,
+    "ticketPrice": 735.85,
+    "stopCount": 2,
+    "airline": "Zidant",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1999e9f74ceba8cd66",
+    "origin": "Rotterdam",
+    "destination": "Amsterdam",
+    "departureDate": "Wed Apr 27 2022 02:04:42 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 4,
+      "minutes": 5
+    },
+    "availableSeats": 71,
+    "ticketPrice": 541.21,
+    "stopCount": 1,
+    "airline": "Edecine",
+    "cabin": "Business"
+  },
+  {
+    "id": "621f5a1904834649fdf673f3",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Mon Apr 25 2022 14:57:52 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 13,
+      "minutes": 31
+    },
+    "availableSeats": 2,
+    "ticketPrice": 526.33,
+    "stopCount": 1,
+    "airline": "Digiprint",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19fb389125f389e2f5",
+    "origin": "Amsterdam",
+    "destination": "Maastricht",
+    "departureDate": "Mon Apr 25 2022 15:20:16 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 19,
+      "minutes": 39
+    },
+    "availableSeats": 54,
+    "ticketPrice": 762.87,
+    "stopCount": 1,
+    "airline": "Portica",
+    "cabin": "First"
+  },
+  {
+    "id": "621f5a19950b87247ead1f82",
+    "origin": "Rotterdam",
+    "destination": "Maastricht",
+    "departureDate": "Sat Apr 16 2022 02:29:13 GMT+0200 (South Africa Standard Time)",
+    "flightDuration": {
+      "hours": 19,
+      "minutes": 32
+    },
+    "availableSeats": 40,
+    "ticketPrice": 915.88,
+    "stopCount": 2,
+    "airline": "Datacator",
+    "cabin": "First"
+  }
+]

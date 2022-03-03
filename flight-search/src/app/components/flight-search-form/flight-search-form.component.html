@@ -1,0 +1,67 @@
+<div class="container">
+  <form [formGroup]="searchForm" novalidate (ngSubmit)="onSubmit()">
+    <mat-card class="flight-search-card">
+      <mat-card-content>
+        <div class="row">
+          <div class="col">
+            <mat-form-field class="full-width" appearance="outline">
+              <mat-label>From</mat-label>
+              <input matInput formControlName="origin" [matAutocomplete]="originAutoComplete">
+              <mat-autocomplete #originAutoComplete="matAutocomplete">
+                <mat-option *ngFor="let location of filteredOrigins | async" [value]="location">
+                  {{location}}
+                </mat-option>
+              </mat-autocomplete>
+              <mat-error *ngIf="searchForm.controls['origin'].hasError('required')">
+                Origin is <strong>required</strong>
+              </mat-error>
+            </mat-form-field>
+          </div>
+          <div class="col">
+            <mat-form-field class="full-width" appearance="outline">
+              <mat-label>To</mat-label>
+              <input matInput formControlName="destination" [matAutocomplete]="destinationAutoComplete">
+              <mat-autocomplete #destinationAutoComplete="matAutocomplete">
+                <mat-option *ngFor="let location of filteredDestinations | async" [value]="location">
+                  {{location}}
+                </mat-option>
+              </mat-autocomplete>
+              <mat-error *ngIf="searchForm.controls['destination'].hasError('required')">
+                Destination is <strong>required</strong>
+              </mat-error>
+            </mat-form-field>
+          </div>
+          <div class="col">
+            <mat-form-field class="full-width" appearance="outline">
+              <mat-label>Departure - Return Dates</mat-label>
+              <mat-date-range-input [rangePicker]="picker">
+                <input matStartDate formControlName="departureDate">
+                <input matEndDate formControlName="returnDate">
+              </mat-date-range-input>
+              <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+              <mat-date-range-picker #picker></mat-date-range-picker>
+              <mat-error *ngIf="searchForm.controls['departureDate'].hasError('required')">
+                Departure date is <strong>required</strong>
+              </mat-error>
+              <mat-error *ngIf="searchForm.controls['returnDate'].hasError('required')">
+                Return date is <strong>required</strong>
+              </mat-error>
+            </mat-form-field>
+          </div>
+          <div class="col">
+            <mat-form-field class="full-width" appearance="outline">
+              <mat-label>Passengers</mat-label>
+              <input matInput type="number" formControlName="passengers">
+              <mat-error *ngIf="searchForm.controls['passengers'].hasError('required')">
+                Passenger amount is <strong>required</strong>
+              </mat-error>
+            </mat-form-field>
+          </div>
+          <div class="col centered">
+            <button mat-raised-button color="primary" type="submit" [disabled]="searchForm.invalid">Search</button>
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </form>
+</div>
